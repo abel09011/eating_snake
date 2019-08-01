@@ -7,7 +7,7 @@ You have a snake that is looking for some fruits (which are represented by a red
 ### Current version is v0.2
 ![]()
 
-#### The rules of elimination are as follows:
+### The rules of elimination are as follows:
 - If the snake touches it's own body segment 
 - if it decides to change to the opposite direction that it's facing
 
@@ -16,6 +16,8 @@ LEFT, RIGHT, UP ,DOWN keys
 
 In order to run this game python 3.7 and Pygame are required.
 You can go to the official Python webpage in order to install Python 3.7
+
+
 This game works on either MAC or Windows
 Pygame can be installed by typing the following command: `pip install pygame` in terminal or windows command line
 
