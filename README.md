@@ -1,8 +1,8 @@
 # eating_snake
 A simple 90's snake game that was built in phyton using object oriented programming and utilizes Pygame for the Visuals and Input commands 
 
-This is a very simple game
-You have a snake that is looking for some fruits (which are represented by a red square) and it moves around. When it touches the fruit, the snake's body gets longer
+This is a very simple game,
+you have a snake that is looking for some fruits (which are represented by a red square) and it moves around. When it touches the fruit, the snake's body gets longer
 
 ### Current version is v0.2
 ![](https://github.com/abel09011/eating_snake/blob/master/eating_snake/visuals/v0.2%20visuals.png)
