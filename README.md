@@ -19,6 +19,7 @@ You can go to the official Python webpage in order to install Python 3.7
 
 
 This game works on either MAC or Windows
+
 Pygame can be installed by typing the following command: 
 `pip install pygame` in terminal or windows command line
 
