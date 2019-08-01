@@ -15,7 +15,7 @@ you have a snake that is looking for some fruits (which are represented by a red
 Press the following keys: LEFT, RIGHT, UP ,DOWN 
 
 In order to run this game python 3.7 and Pygame are required.
-You can go to the official Python webpage in order to install Python 3.7
+You can go to the official [Python](https://www.python.org/) webpage in order to install Python 3.7
 
 
 This game works on either MAC or Windows
